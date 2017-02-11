@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1077586745/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1077586745/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1174248584/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1174248584/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1199201803/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1199201803/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1520015005/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1520015005/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1584912292/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1584912292/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1592842978/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1592842978/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1659068160/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1659068160/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run1797110011/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run1797110011/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run215396918/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run215396918/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run476860995/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run476860995/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run484081335/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run484081335/ObjectDetection.jar"/>
+	<classpathentry kind="lib" path="dist/run719863908/lib/opencv-320.jar"/>
+	<classpathentry kind="lib" path="dist/run719863908/ObjectDetection.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
